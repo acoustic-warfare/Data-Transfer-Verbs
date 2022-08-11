@@ -1,6 +1,5 @@
 # Overview
 This program uses GPUDirect RDMA to communicate between server and client GPU.
-Source code is created using [the following code](https://github.com/micvbang/rdma).
 
 # Requirements
 - [NVIDIA GPU driver](https://www.nvidia.co.jp/Download/index.aspx?lang=us)
