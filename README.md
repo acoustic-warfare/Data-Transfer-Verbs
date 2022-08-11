@@ -12,15 +12,15 @@ The environment used for the operation check is as follows.
 There is no guarantee that it will work in other environments.
 
 - OS
-  - Server : Linux 4.10.0
-  - Client : Linux 4.4.64
+  - Server : Linux 5.15.0.41
+  - Client : Linux 5.15.0.41
 - GPU : NVIDIA Quadro M4000
-- NIC : Mellanox ConnectX-4 VPI
+- NIC : Mellanox ConnectX-6 Dx
 - Driver
-  - NVIDIA GPU driver 375.66
-  - CUDA 8.0.61
-  - Mellanox OFED 4.1
-  - nvidia-peer-memory 1.0.7
+  - NVIDIA GPU driver 515.65
+  - CUDA 11.7
+  - Mellanox OFED 
+  - nvidia-peer-memory
 
 # Procedure
 First, run the following command on the two hosts.
